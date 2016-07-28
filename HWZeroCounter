@@ -1,0 +1,5 @@
+Why does the countings start with 0?
+
+According to John Venier, it is easier to compute that starts with zero. In his example if you group people that starts with 1 like person 1,2,3 to group 1, person 4,5,6 to group 2 and person 7,8,9 to group 3, the computiation for the person n will be in group 1+[(n-1)/3]. But if you start with 0, like person 0,1,2 to group 0, person 3,4,5 to group 2 and person 6,7,8 to group 3, the computtation for the person n will b in group [n/3].
+
+Source:http://www.johndcook.com/blog/2008/06/26/why-computer-scientists-count-from-zero/
