@@ -1,0 +1,3 @@
+ArctanSeries
+
+In this problem, my very first clue was the word series. I then look for the pattern in the series. I saw that the pattern of the formula is (x^n)/n where n is an incrementing odd number starting with 1. Also, i've noticed that the operation is + for every odd term and - for every even term.
