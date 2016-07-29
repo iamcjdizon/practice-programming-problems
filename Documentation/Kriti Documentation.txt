@@ -1,0 +1,3 @@
+Kriti
+
+Honestly, in this problem, I didnt think of the right way on how to solve it because I am so frustrated on my command prompt. It does not execute the java functions even though I have set the correct path. But when I read the problem, I somehow didnt understand it fully. I also followed the sample so that I can understand it fully and true enough, i somehow understand it. I understand it fully when Abien discussed the right logic on how the problem is solved.
